@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <body>
-<h1>Hellow, my name is Błażej</h1>
+<h1>Hello, my name is Błażej</h1>
 <p> Average calistenics, chess and poker enjoyer. </p>
 </body>
 </html> 
